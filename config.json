@@ -6,7 +6,6 @@
         "aaa": "unexpected end of input my ass"
     },
     "config": {
-        "bot_token": "MzY2ODAzNDE1ODM1MjEzODI2.DLyMAA.5jjU_KSBuqzdl8dGH528636BMQs",
         "prefix": "pr:",
         "version": "v1.0 Alpha 1"
     }
