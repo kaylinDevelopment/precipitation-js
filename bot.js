@@ -29,7 +29,7 @@ var prefix = 'pr:'
 
 
 
-var token = config.config.bot_token
+var token = process.env.TOKEN
 
 client.login(token)
 
