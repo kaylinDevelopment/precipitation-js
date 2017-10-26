@@ -1,23 +1,17 @@
 {
-  "name": "precipitation-js",
+  "name": "pjs",
   "version": "0.1.2",
-  "description": "A Work-in-Progress Javascript Discord Bot made for fun and moderation.",
+  "description": "A Discord Bot fo moderation and fun.",
   "main": "bot.js",
   "dependencies": {
-    "discord.js": "^11.2.1"
+    "discord.js": "^11.2.1",
+    "discord.js-commando": "^0.9.0",
+    "heroku": "^0.2.0"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IBMPCDOS5/precipitation-js.git"
-  },
-  "author": "IBMPCDOS5",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/IBMPCDOS5/precipitation-js/issues"
-  },
-  "homepage": "https://github.com/IBMPCDOS5/precipitation-js#readme"
+  "author": "",
+  "license": "ISC"
 }

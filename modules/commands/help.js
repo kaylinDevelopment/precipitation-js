@@ -10,7 +10,7 @@ module.exports.run = async (client, message, args) => {
 		});
 		embed.setTitle(`Help for PrecipitationJS v${ver}.`);
 		embed.addField("List of available commands:", helpString)
-		embed.setDescription("For more information on a command, please use `pr:help [command]`.");
+		embed.setDescription("For more information on a command, please use `tbot;help [command]`.");
 		message.channel.send({ embed });
 	}
 	else {
